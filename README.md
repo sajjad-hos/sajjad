@@ -1,5 +1,6 @@
 ## 👨‍💻About Me
-Hi, I’m Sajjad. With a background in Electrical and Electronics Engineering and a Master’s in Management, I discovered my passion for data over three years ago. Since then, I’ve been working as a data analyst at a German company, analyzing data for actionable insights, building reliable pipelines, developing insightful models, and designing Power BI dashboards that help teams make informed, data-driven decisions.
+Hi, I’m Sajjad!
+With a background in Electrical and Electronics Engineering and a Master’s in Management, I discovered my passion for data over three years ago. Since then, I’ve been working as a data analyst at a German company, analyzing data for actionable insights, building reliable pipelines, developing insightful models, and designing Power BI dashboards that help teams make informed, data-driven decisions.
 
 I’m always eager to learn and share innovative ways to visualize and explore data. Let’s bring data’s hidden stories to light together!
 
