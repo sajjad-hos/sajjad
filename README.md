@@ -20,7 +20,7 @@ Here, I showcase my data work samples in different areas.
 -->
 ## 🛠️ Tech Stack
 - Language: SQL, Python
-- Database: Microsoft SQL Server, MySQL, PostgreSQL
+- Database: Microsoft SQL Server, MySQL, PostgreSQL, Microsoft Azure SQL Database
 - Analysis: Excel, SQL, Python (NumPy, Pandas)
 - Visualization: Power BI, Python (Matplotlib, Seaborn, Plotly)
 - CRM: SuperOffice, SAP
